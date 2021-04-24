@@ -8,7 +8,7 @@ In this part you will get the big idea of this session and learn how to setup a 
 
 In second part you will learn how to install Tabula as tools to extract table from pdf file. Download the data here: http://dinkes.babelprov.go.id/sites/default/files/dokumen/bank_data/20181228%20-%20Laporan%20Riskesdas%202018%20Nasional-1.pdf
 
-3. Extract the data on page 21 (Tabel 3.1.1 Proporsi Pengetahuan Rumah Tangga terhadap Kemudahan Akses ke Rumah Sakit menurut Provinsi, Riskesdas 2018) through Tabula and process the data either manually or you can use Python.
+3. Extract the data on page 21 (Tabel 3.1.1 Proporsi Pengetahuan Rumah Tangga terhadap Kemudahan Akses ke Rumah Sakit menurut Provinsi, Riskesdas 2018) through Tabula and process the data either manually or you can use Python (use 'Geolytics - Python Spatial Data Analytics - Tabula-Py').
 
 4. Open "Geospatial Python Spatial Analytics.ipynb" and follow the steps by running all the cells
 
