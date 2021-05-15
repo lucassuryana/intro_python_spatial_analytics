@@ -4,7 +4,8 @@ In this session we will learn how to use python with arcgis library (arcgis and 
 
 In this part you will get the big idea of this session and learn how to setup a python environment either in your local computer or in the cloud using Google Colab. WHether you choose to use local or cloud, you can choose the next two steps: "reading and cleansing table data from pdf using Tabula in Python library" or "reading and cleansing data from pdf using Tabula Software" 
 
-Tabula Software
+**Tabula Software**
+
 2. Read "Tabula Installation Procedure.pdf"
 
 In second part you will learn how to install Tabula as tools to extract table from pdf file. Download the data here: http://dinkes.babelprov.go.id/sites/default/files/dokumen/bank_data/20181228%20-%20Laporan%20Riskesdas%202018%20Nasional-1.pdf
@@ -13,7 +14,8 @@ In second part you will learn how to install Tabula as tools to extract table fr
 
 4 Open "Geospatial Python Spatial Analytics.ipynb" and follow the steps by running all the cells
 
-Tabula in Python Library
+**Tabula in Python Library**
+
 2. Open "Python_for_Spatial_Analytics.ipynb" and follow the steps by running all the cells
 
 At the end of this part you have joined the data from pdf file with the spatial data in shapefile (.shp) format. Congratulation!
