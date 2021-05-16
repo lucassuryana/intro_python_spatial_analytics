@@ -1,8 +1,9 @@
 # intro_python_spatial_analytics
 In this session we will learn how to use python with arcgis library (arcgis and arcpy) to do spatial data analytics for Riskesdas (Riset Kesehatan Dasar) data. To start the session, follow these steps:
 1. Read "Python for Spatial Analytics.pdf". 
+
 In this part you will get the big idea of this session and learn how to setup a python environment either in your local computer or in the cloud using Google Colab. Whether you choose to use local or cloud, you can choose the next two steps: "reading and cleansing table data from pdf using Tabula in Python library" or "reading and cleansing data from pdf using Tabula Software" 
-2.  Download the data here: http://dinkes.babelprov.go.id/sites/default/files/dokumen/bank_data/20181228%20-%20Laporan%20Riskesdas%202018%20Nasional-1.pdf (The pdf file has been downloaded for you 'Laporan_Nasional_RKD2018_FINAL.pdf')
+2.  Download Riskesdas data here: http://dinkes.babelprov.go.id/sites/default/files/dokumen/bank_data/20181228%20-%20Laporan%20Riskesdas%202018%20Nasional-1.pdf (The pdf file has been downloaded for you 'Laporan_Nasional_RKD2018_FINAL.pdf')
 
 **Tabula Software**
 
